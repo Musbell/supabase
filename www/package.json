@@ -12,7 +12,7 @@
     "prettier": "prettier --write \"./{pages,components,lib,stores,styles,tests}/**/*.{ts,tsx,md,js,jsx,json}\""
   },
   "dependencies": {
-    "@mdx-js/loader": "^1.6.22",
+    "@mdx-js/loader": "^2.1.5",
     "@mdx-js/react": "^1.6.22",
     "@next/mdx": "^10.0.7",
     "@supabase/supabase-js": "^1.6.0",
